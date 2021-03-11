@@ -16,7 +16,7 @@ namespace intro_a_github
 
             Console.WriteLine($"Subtracting {a} + {b} equals {SubNumbers(a, b)} ");
         }
-
+        //function to subtract numbers
         public static int SubNumbers(int a, int b)
         {
             return a - b;
