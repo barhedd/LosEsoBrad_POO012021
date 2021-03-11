@@ -1,0 +1,16 @@
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\bin\Debug\net5.0\intro-a-github.exe
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\bin\Debug\net5.0\intro-a-github.deps.json
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\bin\Debug\net5.0\intro-a-github.runtimeconfig.json
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\bin\Debug\net5.0\intro-a-github.runtimeconfig.dev.json
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\bin\Debug\net5.0\intro-a-github.dll
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\bin\Debug\net5.0\ref\intro-a-github.dll
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\bin\Debug\net5.0\intro-a-github.pdb
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\obj\Debug\net5.0\intro-a-github.csprojAssemblyReference.cache
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\obj\Debug\net5.0\intro-a-github.GeneratedMSBuildEditorConfig.editorconfig
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\obj\Debug\net5.0\intro-a-github.AssemblyInfoInputs.cache
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\obj\Debug\net5.0\intro-a-github.AssemblyInfo.cs
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\obj\Debug\net5.0\intro-a-github.csproj.CoreCompileInputs.cache
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\obj\Debug\net5.0\intro-a-github.dll
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\obj\Debug\net5.0\ref\intro-a-github.dll
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\obj\Debug\net5.0\intro-a-github.pdb
+D:\René\UCA\CICLO I - 2021\POO\ACTVIDADES OPTATIVAS\S1. Intro a Github\intro-a-github\obj\Debug\net5.0\intro-a-github.genruntimeconfig.cache
